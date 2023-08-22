@@ -20,6 +20,10 @@ msgctxt "Addons::description::ulsk_order_logs"
 msgid "ulsk_order_logs add-on description"
 msgstr "История изменения статусов заказов на отдльной странице и на странице заказа."
 
+msgctxt "Languages::order_status_logs"
+msgid "Order status logs add-on"
+msgstr "История изменения статусов заказов"
+
 msgctxt "Languages::ulsk_order_logs.order_status_logs"
 msgid "Order status logs"
 msgstr "История изменения статусов заказов"
